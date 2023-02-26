@@ -18,3 +18,6 @@ Operator precedence determines how operators are parsed concerning each other. O
 >>> x=x/5
 >>> x
 5.0
+>>> x=x*10
+>>> x
+50.0
