@@ -12,3 +12,7 @@ z = [1,2,3,4,5]
 type(z)
 x= 5
 tuple(z)
+a = (10,11,12,13,14,15)
+type(a)
+a={1,2,3,4,5}
+a={1: 'zakria' , 2 : 'ahmad' , 3: 'mohammad' , 4 : 'yahya' , 5 : 'jebrel'}
