@@ -4,3 +4,4 @@ print('Operator precedence determines how operators are parsed concerning each o
 x=10+5
 x=15+10
 x=x/5
+x=x*10
