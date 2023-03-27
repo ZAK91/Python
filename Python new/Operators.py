@@ -9,3 +9,4 @@ x=x%3
 print(11%4)
 print(2**3)
 11/3
+print('yes we can divide 11 by 3 and get an integer number by using the floor division')
