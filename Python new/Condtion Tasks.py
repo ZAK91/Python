@@ -9,3 +9,5 @@ if 4 in x:
     print("4 in the list")
     if 4 and 6 in x :
      print("4 and 6 in the list")
+     if 3 or 6 in x :
+      print("3 or 6 in the list")   
