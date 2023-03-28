@@ -11,3 +11,5 @@ if 4 in x:
      print("4 and 6 in the list")
      if 3 or 6 in x :
       print("3 or 6 in the list")   
+      if 2 and 4 and 5 in x :
+       print("2 and 4 and 5in the list")  
