@@ -13,3 +13,6 @@ for x in range(11):
         break
         print (x)
 print("------Q3------")
+
+for x in range(11):
+    if x==5:
