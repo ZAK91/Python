@@ -9,3 +9,5 @@ for x in range(11):
 print("------Q2------")
 
 for x in range(11):
+    if x==5:
+        break
