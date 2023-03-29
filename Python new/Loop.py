@@ -6,3 +6,4 @@ print("------Q1------")
 
 for x in range(11):
     print (x)
+print("------Q2------")
