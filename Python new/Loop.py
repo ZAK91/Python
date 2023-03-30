@@ -19,3 +19,5 @@ for x in range(11):
         continue
      print (x)
 print("------Q3------")
+
+print("The multiplication table from 1 to 5 ")
