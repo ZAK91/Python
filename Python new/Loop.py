@@ -24,3 +24,4 @@ print("The multiplication table from 1 to 5 ")
 for x in range(1, 6):
     for y in range(1,6):
      print(f"\n {x} x {y} = {x*y}")
+     print("------Q4------")
