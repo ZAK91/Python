@@ -16,3 +16,6 @@ print("------Q3------")
 
 for x in range(11):
     if x==5:
+        continue
+     print (x)
+print("------Q3------")
