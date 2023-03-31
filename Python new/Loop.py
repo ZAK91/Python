@@ -29,3 +29,5 @@ for x in range(10,21):
     print(x)
 print("------Q5------")
 for x in range(10,101,3):
+    print(x)
+print("------Q5------")
