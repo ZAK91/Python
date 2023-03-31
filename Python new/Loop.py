@@ -32,3 +32,5 @@ for x in range(10,101,3):
     print(x)
 print("------Q5------")
 x=range(1,100)
+print(x)
+
