@@ -2,4 +2,4 @@ print('one and two qutation are used for single lines but triple quotes used for
 x='mystero'
 print(x)
 x.upper()
-print(x)
+
