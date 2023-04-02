@@ -3,3 +3,5 @@ x='mystero'
 print(x)
 x.upper()
 print(x)
+def createList(r1, r2):
+
