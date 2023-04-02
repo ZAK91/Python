@@ -7,3 +7,5 @@ def createList(r1, r2):
     
     return list(range(r1, r2+1))
      
+r1, r2 = 10, 20
+print(createList(r1, r2))
