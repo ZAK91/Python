@@ -4,4 +4,6 @@ print(x)
 x.upper()
 print(x)
 def createList(r1, r2):
-
+    
+    return list(range(r1, r2+1))
+     
