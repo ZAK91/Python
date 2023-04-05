@@ -8,3 +8,5 @@ for i in range(n):
     d[a].append(i+1)
 
 
+
+for i in range(m):
