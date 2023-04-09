@@ -14,5 +14,4 @@ for i in range(m):
     if len(d[b]) > 0:
         print(*d[b])
         
-    else :
-     print(-1)
+   
