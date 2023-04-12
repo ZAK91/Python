@@ -7,3 +7,6 @@ def split_and_join(line):
 
 if __name__ == '__main__':
     a = 'this is a string'
+
+    a = split_and_join(a)
+   
