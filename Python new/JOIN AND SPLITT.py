@@ -10,3 +10,4 @@ if __name__ == '__main__':
 
     a = split_and_join(a)
    
+ print(a)
