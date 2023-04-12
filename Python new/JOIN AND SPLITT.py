@@ -3,3 +3,6 @@ def split_and_join(line):
     a=line.split(" ")
  
    a="-".join(line)
+   
+
+if __name__ == '__main__':
