@@ -5,3 +5,4 @@ if __name__ == '__main__':
 
     
 my_list = []
+for _ in range(N):
