@@ -8,4 +8,5 @@ my_list = []
 for _ in range(N):
     cmd, *args = input().split()
     args = list(map(int, args))
+    if cmd == 'append':
     
