@@ -12,4 +12,12 @@ for _ in range(N):
         my_list.append(*args)
     elif cmd == 'insert':
         my_list.insert(*args)
-    
+    elif cmd == 'remove':
+        my_list.remove(*args)
+    elif cmd == 'pop':
+        my_list.pop()
+    elif cmd == 'sort':
+        my_list.sort()
+    elif cmd == 'reverse':
+        my_list.reverse()
+    elif cmd == 'print':
