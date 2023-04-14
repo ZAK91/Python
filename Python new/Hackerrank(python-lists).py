@@ -21,4 +21,3 @@ for _ in range(N):
     elif cmd == 'reverse':
         my_list.reverse()
     elif cmd == 'print':
-        print(my_list)
