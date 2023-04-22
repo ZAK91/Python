@@ -6,4 +6,5 @@ def mutate_string(string, position, character):
     
 
 if __name__ == '__main__':
-  
+    s_new = mutate_string(input(), int(input()), input())
+   
