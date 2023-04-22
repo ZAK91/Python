@@ -5,3 +5,5 @@ def mutate_string(string, position, character):
     return w
     
 
+if __name__ == '__main__':
+  
