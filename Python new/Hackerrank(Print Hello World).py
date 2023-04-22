@@ -1,1 +1,1 @@
-if __name
+if __name__
