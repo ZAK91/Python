@@ -13,4 +13,5 @@ N, M = map(int, input().split())
 for i in range(1):
     if i == N//2:
         print("WELCOME".center(M, '-'))
-   
+    elif i > N//2:
+    
