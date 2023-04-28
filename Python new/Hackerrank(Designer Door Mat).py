@@ -16,4 +16,4 @@ for i in range(1):
     elif i > N//2:
         print((".|." * (N - 1 - i) + ".|." + ".|." * (N - 1 - i)).center(M, '-'))
     else:
-      
+        print((".|." * i + ".|." + ".|." * i).center(M, '-'))
