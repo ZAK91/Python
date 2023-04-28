@@ -10,3 +10,5 @@ for i in range(n, -1, -2):
     print((y*i).center(m,x))
 '''
 N, M = map(int, input().split())
+for i in range(1):
+   
